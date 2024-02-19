@@ -1,1 +1,1 @@
-# datascience_music_project
+# DSCI 100 Music Project
