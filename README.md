@@ -1,1 +1,1 @@
-# DSCI 100 Music Project
+# DSCI 100 Project
